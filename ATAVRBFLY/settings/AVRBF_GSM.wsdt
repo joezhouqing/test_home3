@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<Workspace>
+  <ConfigDictionary>
+    
+  <CurrentConfigs><Project>AVRBF_GSM/Debug</Project></CurrentConfigs></ConfigDictionary>
+  <Desktop>
+    <Static>
+      <Workspace>
+        <ColumnWidths>
+          
+          
+          
+          
+        <Column0>181</Column0><Column1>31</Column1><Column2>27</Column2><Column3>5822424</Column3></ColumnWidths>
+      </Workspace>
+      <Build>
+        
+        
+        
+        
+      <ColumnWidth0>20</ColumnWidth0><ColumnWidth1>916</ColumnWidth1><ColumnWidth2>244</ColumnWidth2><ColumnWidth3>61</ColumnWidth3></Build>
+      <Tool-Output/>
+    </Static>
+    <Windows>
+      
+      
+    <Wnd2>
+        <Tabs>
+          <Tab>
+            <Identity>TabID-28399-8543</Identity>
+            <TabName>Workspace</TabName>
+            <Factory>Workspace</Factory>
+            <Session>
+              
+            <NodeDict><ExpandedNode>AVRBF_GSM</ExpandedNode><ExpandedNode>AVRBF_GSM/ATAVRBF</ExpandedNode><ExpandedNode>AVRBF_GSM/AVRGSM</ExpandedNode></NodeDict></Session>
+          </Tab>
+        </Tabs>
+        
+      <SelectedTab>0</SelectedTab></Wnd2><Wnd3>
+        <Tabs>
+          <Tab>
+            <Identity>TabID-12737-10679</Identity>
+            <TabName>Build</TabName>
+            <Factory>Build</Factory>
+            <Session/>
+          </Tab>
+          <Tab>
+            <Identity>TabID-7834-13805</Identity>
+            <TabName>Tool Output</TabName>
+            <Factory>Tool-Output</Factory>
+            <Session/>
+          </Tab>
+        </Tabs>
+        
+      <SelectedTab>0</SelectedTab></Wnd3></Windows>
+    <Editor>
+      
+      
+      
+      
+    <Pane><Tab><Factory>TextEditor</Factory><Filename>C:\Documents and Settings\vkbakken\Desktop\AVR323 Interfacing GSM modems\Source\IAR\ATAVRBFLY\ATAVRBFLY_FILES\main.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>2670</SelStart><SelEnd>2670</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>C:\Documents and Settings\vkbakken\Desktop\AVR323 Interfacing GSM modems\Source\IAR\ATAVRBFLY\ATAVRBFLY_FILES\STATE_functions.c</Filename><XPos>0</XPos><YPos>146</YPos><SelStart>3443</SelStart><SelEnd>3443</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>C:\Documents and Settings\vkbakken\Desktop\AVR323 Interfacing GSM modems\Source\IAR\ATAVRBFLY\AVRGSM_FILES\AVRGSM_api.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>C:\Documents and Settings\vkbakken\Desktop\AVR323 Interfacing GSM modems\Source\IAR\ATAVRBFLY\AVRGSM_FILES\AVRGSM_header.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>C:\users\vkbakken\QVCS\Application Notes\AVR323 Cellular Phone Interface\Source\IAR\ATAVRBFLY\ATAVRBFLY_FILES\main.c</Filename><XPos>0</XPos><YPos>18</YPos><SelStart>1001</SelStart><SelEnd>1001</SelEnd></Tab><ActiveTab>4</ActiveTab></Pane><ActivePane>0</ActivePane><Sizes><Pane><X>1000000</X><Y>1000000</Y></Pane></Sizes><SplitMode>1</SplitMode></Editor>
+    <Positions>
+      
+      
+      
+      
+      
+    <Top><Row0><Sizes><Toolbar-0084e750><key>iaridepm1</key></Toolbar-0084e750></Sizes></Row0></Top><Left><Row0><Sizes><Wnd2><Rect><Top>-2</Top><Left>-2</Left><Bottom>669</Bottom><Right>259</Right><x>-2</x><y>-2</y><xscreen>195</xscreen><yscreen>195</yscreen><sizeHorzCX>152343</sizeHorzCX><sizeHorzCY>214757</sizeHorzCY><sizeVertCX>203906</sizeVertCX><sizeVertCY>738986</sizeVertCY></Rect></Wnd2></Sizes></Row0></Left><Right><Row0><Sizes/></Row0></Right><Bottom><Row0><Sizes><Wnd3><Rect><Top>-2</Top><Left>-2</Left><Bottom>195</Bottom><Right>1282</Right><x>-2</x><y>-2</y><xscreen>1284</xscreen><yscreen>197</yscreen><sizeHorzCX>1003125</sizeHorzCX><sizeHorzCY>216960</sizeHorzCY><sizeVertCX>153906</sizeVertCX><sizeVertCY>216960</sizeVertCY></Rect></Wnd3></Sizes></Row0></Bottom><Float><Sizes/></Float></Positions>
+  </Desktop>
+</Workspace>
+
+
