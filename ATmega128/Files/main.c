@@ -40,7 +40,7 @@
 * written for ATmega128.\n
 *
 * \section TDL ToDo List
-* Add suport for GPRS.\n
+* Add suport for GPRS. -- really good!!\n
 */
 
 
